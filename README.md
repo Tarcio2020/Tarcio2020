@@ -5,7 +5,7 @@ Eu sou o Tarcio🖐🏿👍🏿
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
-![Tarcio Teles GitHub status](https://github-readme-stats.vercel.app/api?username=Tarcio2020&show_icons=true&theme=dark)
+![Tarcio Teles GitHub status](https://github-readme-stats.vercel.app/api?username=Tarcio2020&show_icons=true&theme=tokyonight)
 
 ### Tecnologias que uso em meus projetos:
 <div> <br>
