@@ -18,7 +18,7 @@ Eu sou o Tarcio🖐🏿👍🏿
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="JQuery">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white alt="Bootstrap">
 </div>
-                                                                                                                              <h3>Destaques:</h3>                                                                                                                              
+                                                                                                                                                                                                                                                 
                                                                                                                               
                                                                                                                               
                                                                                                                
