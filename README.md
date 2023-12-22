@@ -6,7 +6,7 @@ Eu sou o Tarcio🖐🏿👍🏿
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
 
-![Tarcio Teles GitHub status](https://github-readme-stats.vercel.app/api?username=Tarcio2020&show_icons=true&theme=dracula)
+![Tarcio Teles GitHub status](https://github-readme-stats.vercel.app/api?username=Tarcio2020&show_icons=true&theme=merko)
 
 ### Tecnologias que uso em meus projetos:
 <div style="display: inline_block"><br>
